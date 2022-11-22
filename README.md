@@ -44,6 +44,6 @@ It uses accessibility service api and package usage stats to monitor app activit
 
 [![License](https://www.gnu.org/graphics/gplv3-with-text-136x68.png)](LICENSE)
 <br/><br/>
-Current Activity is licensed under [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html) v3 or later.
+Current Activity is licensed under [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html) v3 or later. 
 
 ---
